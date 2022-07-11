@@ -1,0 +1,10 @@
+C:\Users\LAB2-32\Desktop\DSP\EjemploClase1\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\LAB2-32\Desktop\DSP\EjemploClase1\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\LAB2-32\Desktop\DSP\EjemploClase1\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\LAB2-32\Desktop\DSP\EjemploClase1\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\LAB2-32\Desktop\DSP\EjemploClase1\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+C:\Users\LAB2-32\Desktop\DSP\EjemploClase1\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+C:\Users\LAB2-32\Desktop\DSP\EjemploClase1\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+C:\Users\LAB2-32\Desktop\DSP\EjemploClase1\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\LAB2-32\Desktop\DSP\EjemploClase1\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\LAB2-32\Desktop\DSP\EjemploClase1\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb
